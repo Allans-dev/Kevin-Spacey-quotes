@@ -3,7 +3,7 @@
   color: grey;
 }
 body{
-  background-image: url(http://i.imgur.com/KyPLQhv.jpg);
+  background-image: url('imgs/kevin-spacey.jpg');
   background-size: cover;
   height:auto;
 }
